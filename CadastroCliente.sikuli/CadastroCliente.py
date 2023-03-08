@@ -20,6 +20,7 @@ click("1678240963756.png")
 click(Pattern("1678240317295.png").targetOffset(-82,-6))
 click(Pattern("1678241650629.png").targetOffset(13,7))
 find("1678241597356.png")
+click("1678242950897.png")
 
 
 
