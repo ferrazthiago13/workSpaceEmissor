@@ -5,14 +5,14 @@ Este repositório contém um projeto de automação utilizando a ferramenta Siku
 Antes de executar o projeto, certifique-se de que o seu ambiente atenda aos seguintes pré-requisitos:
 
 Sikuli 1.1.3 instalado
-Resolução do monitor configurada para 1280x768
-Conta de usuário com permissões de administrador no sistema operacional
+* Resolução do monitor configurada para 1280x768
+* Conta de usuário com permissões de administrador no sistema operacional
 
 ## Como utilizar
 Para utilizar o projeto, siga as instruções abaixo:
 
 Clone o repositório em sua máquina local.
-Abra o Sikuli e carregue o script .sikuli.
+Abra o Sikuli >> Arquivo >> Abrir >>  carregue a pasta script .sikuli.
 
 Abra o NFEasy Emissor.
 Execute o script previamente salvo.
