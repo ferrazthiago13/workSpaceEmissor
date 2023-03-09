@@ -1,7 +1,7 @@
 click("1678235501059.png")
 click("1678235586363.png")
 click("1678235615021.png")
-type('Consumidor Final')
+type('CONSUMIDOR FINAL')
 click(Pattern("1678235707720.png").targetOffset(-56,0))
 type('82082266028')
 click("1678241001071.png")
@@ -19,8 +19,7 @@ click("1678241487291.png")
 click("1678240963756.png")
 click(Pattern("1678240317295.png").targetOffset(-82,-6))
 click(Pattern("1678241650629.png").targetOffset(13,7))
-find("1678241597356.png")
-click("1678242950897.png")
+
 
 
 
